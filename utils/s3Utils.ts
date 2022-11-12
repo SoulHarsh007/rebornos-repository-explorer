@@ -36,10 +36,6 @@ export default class S3Utils {
 
   constructor() {
     this.buckets = JSON.parse(process.env.S3_BUCKETS || '[]');
-    console.log(
-      '🚀 ~ file: s3Utils.ts ~ line 39 ~ S3Utils ~ constructor ~ buckets',
-      this.buckets
-    );
     this.publicBuckets = this.buckets.map(x => ({
       id: x.id,
       endpoint: x.endpoint,
