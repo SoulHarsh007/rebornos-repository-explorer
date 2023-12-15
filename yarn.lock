@@ -2346,9 +2346,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"daisyui@npm:2.39.1":
-  version: 2.39.1
-  resolution: "daisyui@npm:2.39.1"
+"daisyui@npm:2.52.0":
+  version: 2.52.0
+  resolution: "daisyui@npm:2.52.0"
   dependencies:
     color: "npm:^4.2"
     css-selector-tokenizer: "npm:^0.8.0"
@@ -2357,7 +2357,7 @@ __metadata:
   peerDependencies:
     autoprefixer: ^10.0.2
     postcss: ^8.1.6
-  checksum: 8/90b047bb68c98ea1042b1e6034ff6317b3fc229a1da408e1ecb72e28ef4c7d795caa9833901a3e1b1f596308ca5a384b1dd8649898f28938d88d408e35b104ce
+  checksum: c8ab5f47534d8a8676b8b200bf9d7a9c6129d172f94c1114a9d0bc8e433f59b5bebe057506b74fea0e366b5367f34362ba8d2c783ccb53c57fc52c0b697aaf53
   languageName: node
   linkType: hard
 
@@ -4916,7 +4916,7 @@ __metadata:
     "@types/react-dom": "npm:18.0.8"
     autoprefixer: "npm:10.4.16"
     cssnano: "npm:5.1.15"
-    daisyui: "npm:2.39.1"
+    daisyui: "npm:2.52.0"
     gts: "npm:3.1.1"
     next: "npm:latest"
     postcss: "npm:8.4.32"
