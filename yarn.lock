@@ -4822,12 +4822,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-icons@npm:4.6.0":
-  version: 4.6.0
-  resolution: "react-icons@npm:4.6.0"
+"react-icons@npm:4.12.0":
+  version: 4.12.0
+  resolution: "react-icons@npm:4.12.0"
   peerDependencies:
     react: "*"
-  checksum: 8/a08375d4563e381e156d826a8d551dd26c1bf7c424a79139173bf4c8df71e884badd7d4f5fe9faa0d73d18ace265bcc89891b65fd8f808812b1011b612ebbc53
+  checksum: 2170f43031ee7365539f72d4075cbe6c7fbf9a66d6cf4494aa9393b194272da0564f5b19d1b24dbfc567c0ac89f5fe5b8974d92dd83f61e252388dde6a226fb8
   languageName: node
   linkType: hard
 
@@ -5028,7 +5028,7 @@ __metadata:
     pretty-bytes: "npm:6.0.0"
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"
-    react-icons: "npm:4.6.0"
+    react-icons: "npm:4.12.0"
     tailwindcss: "npm:3.3.6"
     typescript: "npm:4.8.4"
   languageName: unknown
