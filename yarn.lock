@@ -4758,10 +4758,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pretty-bytes@npm:6.0.0":
-  version: 6.0.0
-  resolution: "pretty-bytes@npm:6.0.0"
-  checksum: 8/0bb9f95e617236404b29a8392c6efd82d65805f622f5e809ecd70068102be857d4e3276c86d2a32fa2ef851cc29472e380945dab7bec83ec79bd57a19a10faf7
+"pretty-bytes@npm:6.1.1":
+  version: 6.1.1
+  resolution: "pretty-bytes@npm:6.1.1"
+  checksum: c7a660b933355f3b4587ad3f001c266a8dd6afd17db9f89ebc50812354bb142df4b9600396ba5999bdb1f9717300387dc311df91895c5f0f2a1780e22495b5f8
   languageName: node
   linkType: hard
 
@@ -5025,7 +5025,7 @@ __metadata:
     gts: "npm:3.1.1"
     next: "npm:latest"
     postcss: "npm:8.4.32"
-    pretty-bytes: "npm:6.0.0"
+    pretty-bytes: "npm:6.1.1"
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"
     react-icons: "npm:4.6.0"
